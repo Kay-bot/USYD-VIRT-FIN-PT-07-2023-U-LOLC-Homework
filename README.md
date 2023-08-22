@@ -94,3 +94,5 @@ This integration would save time, reduce errors, and enhance value for users.
 ## Potential Growth:
 
 * By offering a comprehensive solution, PayNow aims to become a dominant player in the Payments/Billing FinTech domain, catering to small businesses' financial needs.
+
+Updated
